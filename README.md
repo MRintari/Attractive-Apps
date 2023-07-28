@@ -1,2 +1,2 @@
 # Attractive-Apps
-This project aims to identify which apps appeal to users most and why.
+Working as a data analyst for a company that builds free Android and iOS mobile apps, the main source of revenue consists of in-app advertisements. Therefore, the number of users for each app determines the company's revenue - the more users who see and engage with the ads, the better. The goal for this project is to analyse data to help the company's developers understand what type of apps are likely to attract more users.
